@@ -5,6 +5,7 @@
 
 #Ingress
 
-![image](https://github.com/getratheesh/Kubernetes-services/assets/142021346/6c9922d0-b403-40f1-8f88-1d0e13073e84)
+![image](https://github.com/getratheesh/Kubernetes-services/assets/142021346/99b1d80d-c335-4859-a151-df67d8387783)
+
 
 
