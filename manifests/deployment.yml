@@ -1,1 +1,23 @@
-
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: <name>
+  namespace: <namespace>
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: <namespace>
+  template:
+    metadata:
+      labels:
+        app: <namespace>
+    spec:
+      containers:
+      - name:  <name>
+        image: <repo>:<TAG>
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 3000
+      imagePullSecrets:
+              - name: secret
