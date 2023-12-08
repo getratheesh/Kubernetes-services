@@ -1,11 +1,11 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: universal-ledger
-  namespace: ulcore-staging
+  name: <names>
+  namespace: <namespace>
 spec:
   type: ClusterIP
   ports:
   - port: 3000
   selector:
-    app: universal-ledger
+    app: <names>
