@@ -9,7 +9,9 @@
 
 
 #Usefull Kubectl Command 
+
 --Create namespace
+
 kubectl create namespace <namespaces>
 
 kubectl get nodes
