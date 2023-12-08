@@ -9,6 +9,8 @@
 
 
 #Usefull Kubectl Command 
+--Create namespace
+kubectl create namespace <namespaces>
 
 kubectl get nodes
 kubectl get pods
@@ -19,4 +21,5 @@ kubectl get ingress --all-namespaces
 kubectl get all --all-namespaces
 
 kubectl get all  -n <namespaces>
+
 
