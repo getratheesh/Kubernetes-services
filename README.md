@@ -25,4 +25,6 @@ kubectl get all --all-namespaces
 
 kubectl get all  -n <namespaces>
 
+kubectl apply -f example.yaml
+
 
