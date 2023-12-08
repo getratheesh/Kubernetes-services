@@ -27,4 +27,9 @@ kubectl get all  -n <namespaces>
 
 kubectl apply -f example.yaml
 
+Use full links
+https://medium.com/nerd-for-tech/logging-at-scale-in-kubernetes-using-grafana-loki-3bb2eb0c0872
+https://learn.microsoft.com/en-us/azure/firewall/protect-azure-kubernetes-service
+https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices
+
 
