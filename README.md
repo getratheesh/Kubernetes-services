@@ -7,6 +7,7 @@
 
 ![image](https://github.com/getratheesh/Kubernetes-services/assets/142021346/99b1d80d-c335-4859-a151-df67d8387783)
 
+![image](https://github.com/getratheesh/Kubernetes-services/assets/142021346/ea34219a-fc54-4118-b091-85789e531a35)
 
 #Usefull Kubectl Command 
 
