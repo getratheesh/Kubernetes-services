@@ -31,5 +31,7 @@ Use full links
 https://medium.com/nerd-for-tech/logging-at-scale-in-kubernetes-using-grafana-loki-3bb2eb0c0872
 https://learn.microsoft.com/en-us/azure/firewall/protect-azure-kubernetes-service
 https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices
+https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/mutual-tls-deploy-aks-api-management
+https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-multi-region
 
 
